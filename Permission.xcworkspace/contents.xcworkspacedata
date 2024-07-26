@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/minh/Desktop/WORK/Permission/Permission.podspec">
+   </FileRef>
+   <Group
+      location = "group:Pod"
+      name = "Pod">
+      <Group
+         location = "group:Classes"
+         name = "Classes">
+         <FileRef
+            location = "group:AppPermission.swift">
+         </FileRef>
+         <FileRef
+            location = "group:LocationPermission.swift">
+         </FileRef>
+         <FileRef
+            location = "group:NetworkPermission.swift">
+         </FileRef>
+         <FileRef
+            location = "group:NotificationPermission.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PhotoVideoPermission.swift">
+         </FileRef>
+         <FileRef
+            location = "group:RecordPermission.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SpeechPermission.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TrackingPermission.swift">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:POD_LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:POD_README.md">
+   </FileRef>
+</Workspace>

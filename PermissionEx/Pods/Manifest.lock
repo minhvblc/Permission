@@ -1,0 +1,16 @@
+PODS:
+  - Permission (0.1.0)
+
+DEPENDENCIES:
+  - Permission (from `../`)
+
+EXTERNAL SOURCES:
+  Permission:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Permission: 56110f03c525f49a864b4b24f6f973ab900326db
+
+PODFILE CHECKSUM: 182ce3a702d3b035b071425738c6a5b1d93842bd
+
+COCOAPODS: 1.15.2
