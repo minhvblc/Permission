@@ -8,6 +8,9 @@
       location = "group:/Users/minh/Desktop/WORK/Permission/Permission.podspec">
    </FileRef>
    <FileRef
+      location = "group:PrivacyInfo.xcprivacy">
+   </FileRef>
+   <FileRef
       location = "group:POD_LICENSE">
    </FileRef>
    <Group
