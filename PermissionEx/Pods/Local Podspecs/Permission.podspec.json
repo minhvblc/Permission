@@ -2,6 +2,7 @@
   "name": "Permission",
   "version": "0.1.0",
   "summary": "Pod for easily request permission",
+  "description": "A detailed description of YourPodName.",
   "homepage": "https://github.com/minhvblc/Permission.git",
   "license": {
     "type": "MIT",
@@ -17,5 +18,7 @@
   "platforms": {
     "ios": "14.0"
   },
-  "source_files": "Permission/Pod/Classes/**/*"
+  "source_files": "Classes/**/*",
+  "swift_versions": "5.8",
+  "swift_version": "5.8"
 }

@@ -4,8 +4,8 @@
 //
 //  Created by minh on 26/7/24.
 //
-import Permission
 import SwiftUI
+import Permission
 
 struct ContentView: View {
     var body: some View {
