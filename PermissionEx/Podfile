@@ -5,7 +5,7 @@ target 'PermissionEx' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
     pod 'Permission',
-    :path => '../'
+    :git => 'https://github.com/minhvblc/Permission.git'
   # Pods for PermissionEx
 
 end

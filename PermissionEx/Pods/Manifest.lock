@@ -2,15 +2,20 @@ PODS:
   - Permission (0.1.0)
 
 DEPENDENCIES:
-  - Permission (from `../`)
+  - Permission (from `https://github.com/minhvblc/Permission.git`)
 
 EXTERNAL SOURCES:
   Permission:
-    :path: "../"
+    :git: https://github.com/minhvblc/Permission.git
+
+CHECKOUT OPTIONS:
+  Permission:
+    :commit: a1496286f7492c30d59a79caf945c5c15c16f6b6
+    :git: https://github.com/minhvblc/Permission.git
 
 SPEC CHECKSUMS:
   Permission: b5f975f77d54af6e9becfc5a9426f41710bef878
 
-PODFILE CHECKSUM: 182ce3a702d3b035b071425738c6a5b1d93842bd
+PODFILE CHECKSUM: 382ce546de504f71c3fb6bab438f0914eb28a98c
 
 COCOAPODS: 1.15.2
